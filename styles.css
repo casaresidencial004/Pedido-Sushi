@@ -1,9 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('imagemfundopedido.jpg');
-    background-size: cover;
-    background-position: center;
-    color: #333; /* Mudança de cor do texto para melhor contraste */
+    background-color: #f4f4f4;
+    color: #333;
     margin: 0;
     padding: 0;
 }
