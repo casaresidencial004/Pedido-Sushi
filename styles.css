@@ -3,7 +3,7 @@ body {
     background-image: url('imagemfundopedido.jpg');
     background-size: cover;
     background-position: center;
-    color: #fff; /* Mudança de cor do texto para melhor contraste */
+    color: #333; /* Mudança de cor do texto para melhor contraste */
     margin: 0;
     padding: 0;
 }
