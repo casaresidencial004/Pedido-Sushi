@@ -1,2 +1,2 @@
 # Pedido-Sushi
-Pedidos de SuShi teste
+Pedidos de SuShi
